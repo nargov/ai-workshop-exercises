@@ -1,0 +1,25 @@
+barcode,isbn,title,author,year,condition,status,notes
+B0001,9780132350884,Clean Code,Robert C. Martin,2008,GOOD,AVAILABLE,
+B0002,9780132350884,Clean Code,Robert C. Martin,2008,GOOD,ON_LOAN,
+B0003,9780132350884,clean code,R. Martin,2008,DAMAGED,AVAILABLE,cover torn
+B0004,9780134757599,Refactoring,Martin Fowler,2018,GOOD,AVAILABLE,
+B0005,9780201633610,Design Patterns,Gamma et al.,1994,GOOD,ON_LOAN,
+B0006,,The Hobbit,J.R.R. Tolkien,1937,GOOD,AVAILABLE,no ISBN on label
+B0007,9780261103344,The Hobbit,J.R.R. Tolkien,1995,GOOD,AVAILABLE,
+B0008,9780747532743,Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,GOOD,ON_LOAN,
+B0009,9780747532743,Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,GOOD,ON_LOAN,
+B0010,9780747532743,Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,GOOD,AVAILABLE,
+B0011,9780141439518,Pride and Prejudice,Jane Austen,1813,GOOD,AVAILABLE,
+B0012,9780141439518,Pride and Prejudice,Jane Austen,1813,GOOD,LOST,reported lost 2026-03
+B0013,9780679783268,Pride & Prejudice,Jane Austen,1813,GOOD,AVAILABLE,different publisher
+B0014,9780140449136,The Odyssey,Homer,-700,GOOD,AVAILABLE,
+B0015,9781400033416,Beloved,Toni Morrison,1987,GOOD,ON_LOAN,
+B0016,9780316769488,The Catcher in the Rye,J.D. Salinger,1951,GOOD,AVAILABLE,
+B0016,9780743273565,The Great Gatsby,F. Scott Fitzgerald,1925,GOOD,AVAILABLE,
+B0018,9780451524935,1984,George Orwell,1949,GOOD,AVAILABLE,
+B0019,9780451524935,Nineteen Eighty-Four,George Orwell,1949,GOOD,ON_LOAN,
+B0020,9780062315007,The Alchemist,Paulo Coelho,1988,GOOD,AVAILABLE,
+B0021,9780385333481,Matilda,Roald Dahl,1988,GOOD,AVAILABLE,children's section
+B0022,9780385333481,Matilda,Roald Dahl,1988,GOOD,ON_LOAN,children's section
+B0023,9781593275846,Eloquent JavaScript,Marijn Haverbeke,2018,GOOD,WITHDRAWN,removed 2026-06 outdated
+B0024,9780596517748,JavaScript: The Good Parts,Douglas Crockford,2008,DAMAGED,AVAILABLE,water damage

@@ -21,5 +21,6 @@ Java 17, Maven, TestNG, AssertJ. Standalone build, every dependency comes from M
 | Module | What it is |
 |---|---|
 | `module-1` | A small bookstore order processor. Read it and find as many problems as you can. Don't fix anything yet. |
+| `module-2` | A product definition for a public library system. Use the AI to produce an implementation plan. No code. |
 
 Run the demo: `./mvnw -q -pl module-1 compile exec:java -Dexec.mainClass=com.example.workshop.module1.Main`
