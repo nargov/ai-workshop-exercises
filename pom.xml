@@ -11,6 +11,7 @@
 
     <modules>
         <module>module-1</module>
+        <module>module-3</module>
     </modules>
 
     <!-- Standalone on purpose: no company parent pom, everything resolves from Maven Central. -->
